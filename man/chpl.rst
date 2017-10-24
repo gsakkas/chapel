@@ -50,7 +50,7 @@ Chapel recognizes four source file types: **.chpl**, .c, .h, and .o.
 OPTIONS
 -------
 
-*Module Processing Options*
+*Module Processing Options for Chapel*
 
 **--[no-]count-tokens**
 
